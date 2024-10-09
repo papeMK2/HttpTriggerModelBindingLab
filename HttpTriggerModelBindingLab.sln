@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HttpTriggerModelBindingLab", "HttpTriggerModelBindingLab\HttpTriggerModelBindingLab.csproj", "{145423F1-C5D0-430F-90A3-199D473170CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{145423F1-C5D0-430F-90A3-199D473170CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{145423F1-C5D0-430F-90A3-199D473170CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{145423F1-C5D0-430F-90A3-199D473170CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{145423F1-C5D0-430F-90A3-199D473170CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {147CDA87-DE0A-4129-8396-AFB4EE4D85E8}
+	EndGlobalSection
+EndGlobal
